@@ -1,0 +1,15 @@
+C:\Users\ModalGR\Desktop\STACKS\STACK .NET\DESAFIO 1 - EXIBINDO DADOS NO CONSOLE\projeto\DoReMusicStore\bin\Debug\net7.0\DoReMusic Store.exe
+C:\Users\ModalGR\Desktop\STACKS\STACK .NET\DESAFIO 1 - EXIBINDO DADOS NO CONSOLE\projeto\DoReMusicStore\bin\Debug\net7.0\DoReMusic Store.deps.json
+C:\Users\ModalGR\Desktop\STACKS\STACK .NET\DESAFIO 1 - EXIBINDO DADOS NO CONSOLE\projeto\DoReMusicStore\bin\Debug\net7.0\DoReMusic Store.runtimeconfig.json
+C:\Users\ModalGR\Desktop\STACKS\STACK .NET\DESAFIO 1 - EXIBINDO DADOS NO CONSOLE\projeto\DoReMusicStore\bin\Debug\net7.0\DoReMusic Store.dll
+C:\Users\ModalGR\Desktop\STACKS\STACK .NET\DESAFIO 1 - EXIBINDO DADOS NO CONSOLE\projeto\DoReMusicStore\bin\Debug\net7.0\DoReMusic Store.pdb
+C:\Users\ModalGR\Desktop\STACKS\STACK .NET\DESAFIO 1 - EXIBINDO DADOS NO CONSOLE\projeto\DoReMusicStore\obj\Debug\net7.0\DoReMusic Store.csproj.AssemblyReference.cache
+C:\Users\ModalGR\Desktop\STACKS\STACK .NET\DESAFIO 1 - EXIBINDO DADOS NO CONSOLE\projeto\DoReMusicStore\obj\Debug\net7.0\DoReMusic Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ModalGR\Desktop\STACKS\STACK .NET\DESAFIO 1 - EXIBINDO DADOS NO CONSOLE\projeto\DoReMusicStore\obj\Debug\net7.0\DoReMusic Store.AssemblyInfoInputs.cache
+C:\Users\ModalGR\Desktop\STACKS\STACK .NET\DESAFIO 1 - EXIBINDO DADOS NO CONSOLE\projeto\DoReMusicStore\obj\Debug\net7.0\DoReMusic Store.AssemblyInfo.cs
+C:\Users\ModalGR\Desktop\STACKS\STACK .NET\DESAFIO 1 - EXIBINDO DADOS NO CONSOLE\projeto\DoReMusicStore\obj\Debug\net7.0\DoReMusic Store.csproj.CoreCompileInputs.cache
+C:\Users\ModalGR\Desktop\STACKS\STACK .NET\DESAFIO 1 - EXIBINDO DADOS NO CONSOLE\projeto\DoReMusicStore\obj\Debug\net7.0\DoReMusic Store.dll
+C:\Users\ModalGR\Desktop\STACKS\STACK .NET\DESAFIO 1 - EXIBINDO DADOS NO CONSOLE\projeto\DoReMusicStore\obj\Debug\net7.0\refint\DoReMusic Store.dll
+C:\Users\ModalGR\Desktop\STACKS\STACK .NET\DESAFIO 1 - EXIBINDO DADOS NO CONSOLE\projeto\DoReMusicStore\obj\Debug\net7.0\DoReMusic Store.pdb
+C:\Users\ModalGR\Desktop\STACKS\STACK .NET\DESAFIO 1 - EXIBINDO DADOS NO CONSOLE\projeto\DoReMusicStore\obj\Debug\net7.0\DoReMusic Store.genruntimeconfig.cache
+C:\Users\ModalGR\Desktop\STACKS\STACK .NET\DESAFIO 1 - EXIBINDO DADOS NO CONSOLE\projeto\DoReMusicStore\obj\Debug\net7.0\ref\DoReMusic Store.dll
